@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "motorbit emakefun",
     "dependencies": {
-        "core": "*",
-        "irRemote": "github:emakefun/pxt-irRemote",
-        "Sensorbit": "github:emakefun/pxt-sensorbit"
+        "core": "*"
     },
     "files": [
         "README.md",
